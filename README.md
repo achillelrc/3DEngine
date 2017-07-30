@@ -5,11 +5,11 @@ Projet effectué dans le cadre d'un rush à Epitech c'est à dire en 48h.
 
 Pour le lancer il vous faudra la lib CSFML si vous ne l'avez pas ouvrez un terminal dans le repo et tapez les commandes suivantes:
 
-**cd csfml-installer
+**cd csfml-installer**
 
-**./install.sh
+**./install.sh**
 
-**source ~/.bashrc
+**source ~/.bashrc**
 
 # Executer
 Pour l'execution ouvrez un terminal dans le dossier, lancez la commande **make** pour compiler les sources puis lancez la commande **./wolf3d maps/map1**
