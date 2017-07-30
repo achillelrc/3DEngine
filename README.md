@@ -15,3 +15,5 @@ Pour le lancer il vous faudra la lib CSFML si vous ne l'avez pas ouvrez un termi
 Pour l'execution ouvrez un terminal dans le dossier, lancez la commande **make** pour compiler les sources puis lancez la commande **./wolf3d maps/map1**
 
 J'ai mis une série de maps de test dans le dossier maps
+
+Pour se déplacer utilisez les fleches du clavier, ESC pour quitter.
