@@ -4,8 +4,11 @@ Projet effectué dans le cadre d'un rush à Epitech c'est à dire en 48h.
 ![screen du prog](https://image.prntscr.com/image/PopWT_3NRkaydTsiSKlKZw.png)
 
 Pour le lancer il vous faudra la lib CSFML si vous ne l'avez pas ouvrez un terminal dans le repo et tapez les commandes suivantes:
+
 cd csfml-installer
+
 ./install.sh
+
 source ~/.bashrc
 
 # Executer
