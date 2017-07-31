@@ -1,4 +1,7 @@
 # Wolf3D
+
+Ce progamme simule un environnement 3d à partir d'une map 2d en utilisant le raycasting
+
 Projet effectué dans le cadre d'un rush à Epitech c'est à dire en 48h.
 
 ![screen du prog](https://image.prntscr.com/image/PopWT_3NRkaydTsiSKlKZw.png)
