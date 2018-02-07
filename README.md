@@ -2,7 +2,7 @@
 
 Ce progamme simule un environnement 3d à partir d'une map 2d en utilisant le raycasting
 
-Projet effectué dans le cadre d'un rush c'est à dire en 48h, il est écris sous la norme d'Epitech.
+Projet individuel effectué en 48h, il est écris sous la norme C Epitech 2016.
 
 ![screen du prog](https://image.prntscr.com/image/PopWT_3NRkaydTsiSKlKZw.png)
 
