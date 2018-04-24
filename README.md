@@ -4,7 +4,7 @@ Ce progamme simule un environnement 3d à partir d'une map 2d en utilisant le ra
 
 Projet individuel effectué en 48h, il est écris sous la norme C Epitech 2016.
 
-<img src="https://image.prntscr.com/image/PopWT_3NRkaydTsiSKlKZw.png" width="380">.
+<img src="https://image.prntscr.com/image/PopWT_3NRkaydTsiSKlKZw.png" width="480">
 
 Pour le lancer il vous faudra la lib CSFML si vous ne l'avez pas ouvrez un terminal dans le repo et tapez les commandes suivantes:
 
