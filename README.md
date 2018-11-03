@@ -1,4 +1,4 @@
-# Wolf3D
+# Implémentation d'un Moteur 3D en C
 
 Ce progamme simule un environnement 3D à partir d'une map 2D en utilisant le raycasting
 
